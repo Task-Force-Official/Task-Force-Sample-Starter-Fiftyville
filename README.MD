@@ -200,3 +200,6 @@ For a full list of SQL commands, check out the SQL reference [here](https://www.
 
 Good luck with the investigation, and may your SQL sleuthing lead you to the truth!
 
+
+(inspired by CS50)
+
