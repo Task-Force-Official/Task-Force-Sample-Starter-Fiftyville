@@ -1,0 +1,1 @@
+-- Keep a log for all your Queries used to get the results
