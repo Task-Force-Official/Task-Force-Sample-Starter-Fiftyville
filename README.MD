@@ -7,6 +7,8 @@ Welcome to **50ville**, a thrilling SQL mystery where your task is to find out:
 
 You have been provided with the `fiftyville.db` SQLite database file. Using SQL queries, you will explore the database to gather clues and solve the mystery.
 
+All you know is that the theft took place on **July 28, 2021** and that it took place on **Humphrey Street**.
+
 ### How to Start
 
 1. **Download the Database:**
