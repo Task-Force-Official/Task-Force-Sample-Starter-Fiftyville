@@ -1,6 +1,9 @@
 # 50ville: SQL Mystery Task - README
 
-Welcome to **50ville**, a thrilling SQL mystery where your task is to find out:
+Welcome to **50ville**, a thrilling SQL mystery!
+
+The CS50 Duck has been stolen! The town of Fiftyville has called upon you to solve the mystery of the stolen duck. Authorities believe that the thief stole the duck and then, shortly afterwards, took a flight out of town with the help of an accomplice. Your goal is to identify:
+
 1. **The Thief** - Who committed the crime?
 2. **The City** - Where did the thief escape to?
 3. **The Accomplice** - Who helped the thief?
